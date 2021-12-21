@@ -1,0 +1,18 @@
+/* This is our main CSS for Webpage.html, we will load this in the Header element of Wbpage.html */
+
+
+/* Select Everything (all elements) is noted by the * */
+* {
+    color:crimson;
+}
+
+/* HTML Element Selector */
+body {
+    background-color: rgba(75, 122, 85, 0.623);
+}
+
+/* Calling multiple selectors */
+h1, h2 {
+    color: black;
+}
+
